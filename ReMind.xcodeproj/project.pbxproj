@@ -75,10 +75,10 @@
 		8FEAA40D2CE8C01D00D6F7EA = {
 			isa = PBXGroup;
 			children = (
+				8FEAA4172CE8C01D00D6F7EA /* Products */,
 				8FEAA4182CE8C01D00D6F7EA /* ReMind */,
 				8FEAA42B2CE8C01F00D6F7EA /* ReMindTests */,
 				8FEAA4352CE8C01F00D6F7EA /* ReMindUITests */,
-				8FEAA4172CE8C01D00D6F7EA /* Products */,
 			);
 			sourceTree = "<group>";
 		};
